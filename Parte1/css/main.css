@@ -1,10 +1,6 @@
 /* Pon tu código css aqui */
 
-div {
-	width: 50%,
-	height: 300px;
-	display: block;
-	background: white;
+.contenedor {
 	border: 1px solid grey;
 }
 .uno, .dos, .tres {
