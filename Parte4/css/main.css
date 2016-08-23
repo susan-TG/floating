@@ -1,1 +1,27 @@
 /* Pon tu código css aqui */
+
+.contenedor {
+	border: 1px solid grey;
+	overflow: auto;
+	zoom: 1p;
+}
+.box {
+	width: 25%;
+	height: 100px;
+	float: left;
+
+}
+.uno {
+	background: yellow;
+}
+.dos {
+	background: #22CDEC;
+}
+.tres {
+	background: #FA0A81;
+}
+.contenedor:after {
+	content: "";
+	display: block;
+	clear:both;
+}

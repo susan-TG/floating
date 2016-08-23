@@ -2,10 +2,12 @@
 
 .contenedor {
 	border: 1px solid grey;
+
 }
 .uno, .dos, .tres {
 	width: 25%;
 	height: 100px;
+	float: left;
 }
 .uno {
 	background: yellow;
