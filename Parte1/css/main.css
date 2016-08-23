@@ -1,0 +1,22 @@
+/* Pon tu código css aqui */
+
+div {
+	width: 50%,
+	height: 300px;
+	display: block;
+	background: white;
+	border: 1px solid grey;
+}
+.uno, .dos, .tres {
+	width: 25%;
+	height: 100px;
+}
+.uno {
+	background: yellow;
+}
+.dos {
+	background: #22CDEC;
+}
+.tres {
+	background: #FA0A81;
+}
