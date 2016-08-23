@@ -1,1 +1,19 @@
 /* Pon tu código css aqui */
+
+.contenedor {
+	border: 1px solid grey;
+}
+.uno, .dos, .tres {
+	width: 25%;
+	height: 100px;
+	float: right;
+}
+.uno {
+	background: yellow;
+}
+.dos {
+	background: #22CDEC;
+}
+.tres {
+	background: #FA0A81;
+}
